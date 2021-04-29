@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ambarish
-- 👀 I’m interested in IoT, 5G
-- 🌱 I’m currently learning Elixir/Phoenix, GraphQL/Absinthe, PostgreSQL/Ecto 
-- 💞️ I’m looking to collaborate on Cross-Platform app's especially Flutter and Phoenix app's 
-- ⌘ I'm open to work on Elixir/Phoenix or Flutter
+- 👋 Hi, I’m Ambareesha
+- 👀 interested in IoT, 5G
+- 🌱 currently learning Elixir/Phoenix, GraphQL/Absinthe, PostgreSQL/Ecto 
+- 💞️ looking to collaborate on Cross-Platform app's especially Flutter and Phoenix app's 
+- ⌘ open to work on Elixir/Phoenix or Flutter
 - 📬 You can reach me @ ambareesha7@gmail.com
 
 <!---
