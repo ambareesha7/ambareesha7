@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ambareesha
+- 👋 Hi, I’m Ambareesha AV
 - 👀 interested in IoT, 5G
 - 🌱 currently learning Elixir/Phoenix, GraphQL/Absinthe, PostgreSQL/Ecto 
 - 💞️ looking to collaborate on Cross-Platform app's especially Flutter and Phoenix app's 
