@@ -5,7 +5,7 @@
 - ⌘ open to work on Elixir/Phoenix, Blockchain or Flutter
 - 📬 You can reach me @ ambareesha7@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ambareesha7&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ambareesha7&theme=dracula&hide_border=true)](https://git.io/streak-stats) -->
 
 ![Ambarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambareesha7)
 
